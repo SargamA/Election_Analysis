@@ -15,19 +15,31 @@ Software: Python 3.9.11, Visual Studion Code
 
 ## Summary
 
-the analysis of hte eleciton show that:
+The analysis of the eleciton show that:
+There were 369,711 votes cast in the election, elections were held in 3 counties and there were 3 candidates. 
 
-There were 369,711 votes cast in the election
-### The candidates were:
-  Charles Casper Stockham
-  Diana DeGette
-  Raymon Anthony Doane
-### The candidate results were:
-  Charles Casper Stockham received 23.0%  of the votes and 85,213 votes
-  Diana DeGette received 73.8%  of the votes and 272,892 votes
-  Raymon Anthony Doane received 3.1% of hte votes and 11,606 votes
-### The winner of the election was:
-   Diana DeGette who received 73.8% of hte votes and 272,892 votes  
+### Breakdown by County:
+      Votes by County:
+      Jefferson: 10.5% (38,855)
+      Denver: 82.8% (306,055)
+      Arapahoe: 6.7% (24,801)
+
+Denver County had the highest number of votes
+
+### Breakdown by Candidate:
+      Votes per Candidate:
+      Charles Casper Stockham: 23.0% (85,213)
+      Diana DeGette: 73.8% (272,892)
+      Raymon Anthony Doane: 3.1% (11,606)
+      
+Diana DeGette who received 73.8% of hte votes and 272,892 votes  
+
+Above data was obtained by using the script written for this excerise.  In addition to counting votes and percentage per county or candiate, the same scrip can be modified to:
+highlight a county with least number of voters. If additional information is available, hte scrip can be modified to identify popularity of each candidate amongst different age groups, gender, race, etc. 
+  
+In summayr,  this script can provide detailed analysis within short period time.  
+
+
    
    
 
